@@ -18,5 +18,5 @@ I recently completed a web development bootcamp at **neue fische** and am now lo
 ---
 
 ### 🤔 Fun Facts
-- ⚽ Football fan – always excited about the game - and especially for the HSV !  
+- ⚽ Football fan – always excited about the game - and especially for the HSV!  
 - 💬 I love discussing tech, psychology, and economics. Random facts about animals, the planet, or the universe always spark my curiosity
